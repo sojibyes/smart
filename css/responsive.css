@@ -1,0 +1,27 @@
+
+@media(max-width:991px){
+ .pricing-list h1 {
+    font-size: 40px !important;
+}
+}
+@media(max-width:767px){
+.feature-two {
+    text-align: center;      
+}
+.pricing-border2{
+    border-right:none !important;
+}
+
+ .download-text {
+    padding: 25px 0 !important;
+}   
+}
+@media(max-width:675px){
+
+    .list-inline-item {
+    display:block !important;
+} 
+    .list-inline-item img {
+    margin-bottom:10px;
+}
+}
